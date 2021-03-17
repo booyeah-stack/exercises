@@ -43,7 +43,7 @@ const Search = () => {
             className="ui button"
             target="_blank"
           >
-            Go to article
+            Go to article!!
           </a>
         </div>
         <div className="content">
